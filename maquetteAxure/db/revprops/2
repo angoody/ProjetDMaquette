@@ -1,0 +1,22 @@
+K 10
+svn:author
+V 8
+Philippe
+K 8
+svn:date
+V 27
+2018-01-09T22:48:43.054870Z
+K 7
+svn:log
+V 351
+<AXCHECKIN>---- Check In Summary ----
+[CHANGED]  Sitemap
+[CHANGED]  (Page)      Formations
+[CHANGED]  (Page)      Modules
+[CHANGED]  (Page)      Cours planifiés
+[CHANGED]  (Page)      Contraintes
+[CHANGED]  (Master)    Menu gauche
+[CHANGED]  (Page)      Modèles de calendrier
+[ADDED]    (Page)      Paramètres
+--------------------------</AXCHECKIN>
+END
